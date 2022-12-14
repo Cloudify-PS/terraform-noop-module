@@ -3,6 +3,6 @@ variable "test" {
   type = string
 }
 
-resource "null_resource" "test" {
+resource "null_resource" "test_updated" {
 }
 
